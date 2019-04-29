@@ -61,6 +61,7 @@ about:
     and running Rook applications. To get started, be sure and read the 'Rook' help
     file first.
   license_family: GPL2
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
